@@ -112,3 +112,6 @@ dmypy.json
 
 # SQLite DB
 app.db
+
+.vagrant/
+.idea/
