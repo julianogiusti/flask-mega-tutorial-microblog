@@ -115,3 +115,5 @@ app.db
 
 .vagrant/
 .idea/
+
+logs/
